@@ -8,7 +8,7 @@
 |___|_|_|_|___|_,_|___|_|_|___|_| |___|  _|___|___|
                               |_|
 
-i do some open-source stuff mostly regarding android, linux or other related topics
+I like learning about electronics and stuff
 ```
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
