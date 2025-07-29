@@ -16,6 +16,8 @@ I like learning about electronics and stuff
 
 <!-- https://shields.io/ -->
 &nbsp;
+
+[![Monero](https://img.shields.io/badge/Monero-black?style=flat&logo=monero&logoColor=fff)](https://github.com/chickendrop89/chickendrop89/blob/main/DONATE.md)
 [![Telegram](https://img.shields.io/badge/Telegram-black?style=flat&logo=telegram)](https://t.me/chickendrop89)
 [![XDA Developers](https://img.shields.io/badge/XDA_Developers-black?style=flat&logo=xdadevelopers)](https://xdaforums.com/m/chickendrop89.12262335)
 
