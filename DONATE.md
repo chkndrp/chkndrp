@@ -1,5 +1,6 @@
 ```
 Thank you for donate ❤️
+This will motivate me to work more on my projects, and i will give you permanent credits if asked.
 
 Monero (XMR) address:
 466c87px5xYMyhfrpvPD6r6yvmTV3RmpdfDGXjWd3Ynv1SUwLRnybrjd8Has6T4wAsKbQtath1dXWYf5xNpHWh1xV5EgZQo
