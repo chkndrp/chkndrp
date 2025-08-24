@@ -10,4 +10,7 @@ ltc1qmq078r8wglqlc25vdjxn056u3cg69cq8qjafw4
 
 Bitcoin (BTC) address:
 bc1px0h0hg0gx3etpucv6yxxj7kpawwkuljzlv4tduj89cpwspzf5ncqnwzwng
+
+Ethereum (ETH) address:
+0x06ac540833409495F3727eEbD01718a4ec2A379d
 ```
