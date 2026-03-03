@@ -16,7 +16,7 @@ I like learning about electronics and stuff
 
 <!-- https://shields.io/ -->
 &nbsp;
-[![Donate](https://img.shields.io/badge/Donate-black?style=flat&logo=monero&logoColor=fff)](https://github.com/chickendrop89/chickendrop89/blob/main/DONATE.md)
+[![Donate](https://img.shields.io/badge/Donate-black?logo=ko-fi&logoColor=green)](https://ko-fi.com/chickendrop89) 
 [![Telegram](https://img.shields.io/badge/Telegram-black?style=flat&logo=telegram)](https://t.me/chickendrop89)
 [![XDA Developers](https://img.shields.io/badge/XDA_Developers-black?style=flat&logo=xdadevelopers)](https://xdaforums.com/m/chickendrop89.12262335)
 [![Static Badge](https://img.shields.io/badge/SourceForge-black?logo=sourceforge)](https://sourceforge.net/u/chickendrop89)
