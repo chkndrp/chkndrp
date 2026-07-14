@@ -1,17 +1,5 @@
 <div align="center">
 
-<!-- https://patorjk.com/software/taag -->
-```                                                
-       __    __      __                   __                  _______ _______ 
- .----|  |--|__.----|  |--.-----.-----.--|  .----.-----.-----|   _   |   _   |
- |  __|     |  |  __|    <|  -__|     |  _  |   _|  _  |  _  |.  |   |   |   |
- |____|__|__|__|____|__|__|_____|__|__|_____|__| |_____|   __|.  _   |\___   |
-                                                       |__|  |:  1   |:  1   |
-        I like learning about electronics and stuff          |::.. . |::.. . |
-                                                             `-------`-------'
-                                                                                    
-```
-
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 [![GitHub stats](stats.svg)](https://github.com/chkndrp?tab=repositories)
 
