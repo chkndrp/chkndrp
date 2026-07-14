@@ -13,7 +13,7 @@
 ```
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-[![GitHub stats](https://vercel-github-readme-stats-xi.vercel.app/api?username=chickendrop89&show_icons=true&disable_animations=true&hide_title=true&border_radius=20&border_color=0d1117&bg_color=151b23&hide=contribs&text_color=e4e4e4&icon_color=ffffff&ring_color=ffffff&include_all_commits=true)](https://github.com/chickendrop89?tab=repositories)
+[![GitHub stats](stats.svg)](https://github.com/chickendrop89?tab=repositories)
 
 <!-- https://shields.io/ -->
 &nbsp;
